@@ -3,7 +3,7 @@
 - Part of the code was taken from the https://www.autohotkey.com/boards/viewtopic.php?t=24012
 
 **Works on:**
-Windows 32-bit / x64.
+- Windows 32-bit / x64 with **default** Switch Input Method: **SHIFT + ALT** (You can change it in a script file)
 
 **HowToInstall:**
 1. Install script runner:
@@ -17,3 +17,6 @@ Windows 32-bit / x64.
 **HowToUse:**
 1. 1 fast press on the "CapsLk" will switch system languages
 2. Hold for a 0.5 second will change Caps mode **ON** or **OFF**
+
+**Issus:**
+- Script doesn't work Switch Input Methods
