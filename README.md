@@ -1,6 +1,6 @@
 # ahk-CapsLock-switcher
-If you want to make your CapsLook button works like on a Macbook. This one will help
-Part of the code was taken from the https://www.autohotkey.com/boards/viewtopic.php?t=24012
+- If you want to make your CapsLook button works like on a Macbook. This one will help
+- Part of the code was taken from the https://www.autohotkey.com/boards/viewtopic.php?t=24012
 
 **HowToUse:**
 1. Install:
