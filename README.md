@@ -17,6 +17,3 @@
 **HowToUse:**
 1. 1 fast press on the "CapsLk" will switch system languages
 2. Hold for a 0.5 second will change Caps mode **ON** or **OFF**
-
-**Issus:**
-- Script doesn't work Switch Input Methods
